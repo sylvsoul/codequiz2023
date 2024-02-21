@@ -1,9 +1,11 @@
-# code-quiz-HW4
+CodeQuiz2023
 
-## Deployable page : [Click me](https://adilh621.github.io/code-quiz/)
+https://sylvsoul.github.io/codequiz2023/index.html
 
-## Objectives
-As you proceed in your career as a web developer, you will probably be asked to complete a coding assessment, which is typically a combination of multiple-choice questions and interactive challenges. Build a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+This is the Week 6 Skillhat Assignment, creating a responsive, interactive coding quiz which stores highscores with the assistance of an API.
 
-## Check out how it looks:
-![image](https://user-images.githubusercontent.com/36384770/91649712-906d9d80-ea44-11ea-821f-2d1bb621766b.png)
+![codequiz screenshot 2](https://github.com/sylvsoul/codequiz2023/assets/20224205/6a26d6e0-19df-46f9-b820-a5cd5925ec91)
+![codequiz screenshot 1](https://github.com/sylvsoul/codequiz2023/assets/20224205/398dab52-0872-4648-a802-7a86312699df)
+![codequiz screenshot 5](https://github.com/sylvsoul/codequiz2023/assets/20224205/3064667c-081e-4dec-bdf2-cfaa7419da21)
+![codequiz screenshot 4](https://github.com/sylvsoul/codequiz2023/assets/20224205/dc9d7b64-a84d-4e56-beee-224334b64fa7)
+![codequiz screenshot 3](https://github.com/sylvsoul/codequiz2023/assets/20224205/72a2aa87-33b1-49bc-83e6-071939b601f0)
