@@ -1,0 +1,35 @@
+header{
+    margin:auto;
+    margin-top:10px;
+    margin-bottom:20px;
+    background-color:azure;
+    
+}
+
+#title-section{
+
+    margin-top:75px;
+    
+    
+
+}
+
+#end-screen{
+
+    margin-top:75px;
+    
+
+}
+
+/* Our hide / show class  */
+.hide {
+    display: none!important;
+}
+
+.show {
+    display: block;
+}
+.choice{
+    display: block;
+    margin-top: 10px;
+}
